@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sum{width:1250px;height:2300px; background-color:#FFF}
+*{margin:0px;padding:0px}
+.container
+{
+	width:100%;
+	height:auto;
+	margin:0px auto;
+	font-size:16px;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+.logo
+{
+	width:100%;;
+	height:80px;
+}
+/*menu*/
+#menu
+{
+	width:100%;
+	height:50px;
+	background:#F00;
+}
+#menu ul{
+	background:#036;
+	list-style-type:none;
+	text-align:left;
+	font-size:20px;
+	padding:0px 20px
+	
+}
+#menu ul li{
+	width:130px;
+	height:50px;
+	line-height:50px;
+	position:relative;
+	display:inline-table;
+}
+#menu ul li a{
+	text-decoration:none;
+	color:white;
+	font:bold;
+	display:block;
+	padding:0;
+	text-align:center;
+}
+#menu ul li a:hover{
+	background-color:#FFF;
+	color:black;
+}
+#menu .sub_menu{
+	position:absolute;
+	display:none;
+	background-color:#036;
+	text-align:center;
+	padding:0px;
+}
+#menu ul li:hover .sub_menu
+{
+	display:block;
+}
+#menu ul li: hover .sub_menu
+{
+	background:#09F;
+}
+.main
+{
+	width:829px;
+	height:auto;
+	background:white;
+	float:left;
+	padding-left:10px;
+}
+.main ul {list-style-type:none;}
+.main ul li { clear:left; padding-top:0px;}
+.main ul li img{ float:left; margin-right:10px; margin-bottom:20px;}
+.button{background:#c36; width:210px; height:34px; border-radius:3px; line-height:34px; border:1px solid #a42952;}
+.button a{color:white;}
+.right
+{
+	width:350px;
+	height:2000px;
+	float:right;
+	padding-top:0px
+}
+.next{margin:0px auto;}
+.next ul li{width 200px; height:50px; background:#f1f1f1; margin:10px; text-align:center; line-height:50px; float:left;}
+.end
+{
+	width:100%;
+	height:auto;
+	background-color: #052851;
+	float:left;
+}
+.end ul{ list-style-type:none;}
+.end ul li{margin-bottom:5px;}
+.end ul li a{color:white;}
+.end ul li a:hover{color:#FC0;}
+a{text-decoration:none; color:black;}
+.view{color:#999;}
+pre{
+	font-size:18px;
+}
+
+.Copyright{
+    width:100%;
+    height:50px;
+    float:left;
+    font-size: 17px;
+    font-weight: 100;
+    text-align:center;
+    color:#FFF;
+}
+
+

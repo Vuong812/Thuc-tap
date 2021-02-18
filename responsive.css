@@ -1,0 +1,40 @@
+@media only screen and (max-width: 812px) /*MOBILE*/
+{
+  .logo
+  {
+      text-align: center;
+  }
+
+  .logo_right
+  {
+      display: none;
+  }
+  .container
+  {
+      width: 888px;
+  }
+  .next
+  {
+      margin-left: 290px;
+  }
+  .right
+  {
+      display: none;
+  }
+  table
+  {
+      margin-left:140px;
+  }
+  table tr td
+  {
+      float: left;
+  }
+  table tr .td1
+  {
+      display: none;
+  }
+  .end 
+  {
+      width: 880px;
+  }
+}

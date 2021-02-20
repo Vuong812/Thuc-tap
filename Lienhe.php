@@ -15,7 +15,7 @@
 	<div class="logo">
     <a href="Trangchu.php"><img src="Images/Logo.png" width="400px" height="80px" class="logo_left"/></a>
     <a href="#"><img src="Images/HawkHost-banner-top.jpg" style="margin-left:280px" class="logo_right"/></a>
-        </div>
+    </div>
     <div id="menu">
     	<ul class="main_menu">
             <li><a href="#">TIN TỨC &nabla;</a>
@@ -39,50 +39,50 @@
     <p>Fanpage: <a href="#"> Giap Pham</a> </p>
 
 </div>
-    <!--ASIDE-->
-    <div class="right">
-    	<input type="text" placeholder="Search"/>
-        <h3>HawkHost Coupon</h3>
-<pre>
-Mã giảm giá cho Hong Kong & Singapore
-<div class="button"><a href="#">Coupon 15% trọn đời</a></div>
+<!--ASIDE-->
+<div class="right">
+                <input type="text" placeholder="Search"/>
+                <h3>HawkHost Coupon</h3>
+        <pre>
+        Mã giảm giá cho Hong Kong & Singapore
+        <div class="button"><a href="#">Coupon 15% trọn đời</a></div>
 
-Shared Hosting
-<div class="button"><a href="#">Coupon 30% trọn đời</a></div>
-<div class="button"><a href="#">Coupon 40% trọn đời</a></div>
+        Shared Hosting
+        <div class="button"><a href="#">Coupon 30% trọn đời</a></div>
+        <div class="button"><a href="#">Coupon 40% trọn đời</a></div>
 
-Reseller Hosting   
-<div class="button"><a href="#">Coupon 30% trọn đời</a></div>
+        Reseller Hosting   
+        <div class="button"><a href="#">Coupon 30% trọn đời</a></div>
 
-Semi Dedicated Hosting
-<div class="button"><a href="#">Coupon 30% trọn đời</a></div>
-</pre>
-<h3>Bài viết mới nhất</h3>
-<hr>
-	<p><a href="#">Mã giảm giá Hawk Host 55% trọn đời – Summer Sale</a></p>
-    <hr>
-    <p><a href="#">Hawk Host Coupon Tháng 7/2020 – Giảm lên tới 40% Hosting, có coupon trọn đời</a></p>
-    <hr>
-    <p><a href="#">Vultr Coupon Code tháng 07/2020 – Tặng tới 103 USD miễn phí</a></p>
-    <hr>
-    <p><a href="#">Mã giảm giá Hawk Host dành riêng cho độc giả Giap Pham – Giảm giá trọn đời location Hong Kong & Singapore</a></p>
-    <hr>
-    <p><a href="#">Mã giảm giá Hawk Host 55% trọn đời – Happy Spring</a></p>
-    <hr>
-    <p><a href="#">Mã giảm giá Hawk Host không còn dùng được cho location Hong Kong và Singapore</a></p>
-    <hr>
-    <p><a href="#">Đánh giá Hawk Host – Hosting tốc độ cao giá rẻ</a></p>
-    <hr>
-    <p><a href="#">Hướng dẫn cài đặt Windows trên VPS Vultr chi tiết</a></p>
-    <hr>
-    <p><a href="#">Hướng dẫn cài đặt VPS Vultr và cách sử dụng cơ bản</a></p>
-    <hr>
-    <p><a href="#">VPS tốt nhất nên dùng trong năm 2020</a></p>
-        <h3>Hosting nên dùng</h3>
-        <a href="#"><img src="Images/Banner-Hawk-Host.png"/></a>
-        <h3>VPS nên dùng</h3>
-        <a href="#"><img src="Images/Vultr-100-USD.png"/></a>
-  </div>
+        Semi Dedicated Hosting
+        <div class="button"><a href="#">Coupon 30% trọn đời</a></div>
+        </pre>
+        <h3>Bài viết mới nhất</h3>
+        <hr>
+            <p><a href="#">Mã giảm giá Hawk Host 55% trọn đời – Summer Sale</a></p>
+            <hr>
+            <p><a href="#">Hawk Host Coupon Tháng 7/2020 – Giảm lên tới 40% Hosting, có coupon trọn đời</a></p>
+            <hr>
+            <p><a href="#">Vultr Coupon Code tháng 07/2020 – Tặng tới 103 USD miễn phí</a></p>
+            <hr>
+            <p><a href="#">Mã giảm giá Hawk Host dành riêng cho độc giả Giap Pham – Giảm giá trọn đời location Hong Kong & Singapore</a></p>
+            <hr>
+            <p><a href="#">Mã giảm giá Hawk Host 55% trọn đời – Happy Spring</a></p>
+            <hr>
+            <p><a href="#">Mã giảm giá Hawk Host không còn dùng được cho location Hong Kong và Singapore</a></p>
+            <hr>
+            <p><a href="#">Đánh giá Hawk Host – Hosting tốc độ cao giá rẻ</a></p>
+            <hr>
+            <p><a href="#">Hướng dẫn cài đặt Windows trên VPS Vultr chi tiết</a></p>
+            <hr>
+            <p><a href="#">Hướng dẫn cài đặt VPS Vultr và cách sử dụng cơ bản</a></p>
+            <hr>
+            <p><a href="#">VPS tốt nhất nên dùng trong năm 2020</a></p>
+                <h3>Hosting nên dùng</h3>
+                <a href="#"><img src="Images/Banner-Hawk-Host.png"/></a>
+                <h3>VPS nên dùng</h3>
+                <a href="#"><img src="Images/Vultr-100-USD.png"/></a>
+ </div>
 <!--FOOTER-->
  <div class="end">
  	<table>

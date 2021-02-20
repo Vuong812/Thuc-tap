@@ -14,7 +14,7 @@
 <!--HEADER-->
 	<div class="logo">
     <a href="Trangchu.php"><img src="Images/Logo.png" width="400px" height="80px" class="logo_left"/></a>
-    <a href="#"><img src="Images/HawkHost-banner-top.jpg" style="margin-left:280px" class="logo_right"></a>
+    <a href="#"><img src="Images/HawkHost-banner-top.jpg" style="margin-left:280px" class="logo_right"/></a>
     </div>
     <div id="menu">
     	<ul class="main_menu">
@@ -133,7 +133,7 @@ Semi Dedicated Hosting
 </pre>
 <h3>Bài viết mới nhất</h3>
 <hr>
-   <p><a href="#">Mã giảm giá Hawk Host 55% trọn đời – Summer Sale</a></p></p>
+   <p><a href="#">Mã giảm giá Hawk Host 55% trọn đời – Summer Sale</a></p>
    <hr>
    <p><a href="#">Hawk Host Coupon Tháng 7/2020 – Giảm lên tới 40% Hosting, có coupon trọn đời</a></p>
    <hr>

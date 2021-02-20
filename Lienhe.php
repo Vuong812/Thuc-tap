@@ -82,6 +82,7 @@ Semi Dedicated Hosting
         <a href="#"><img src="Images/Banner-Hawk-Host.png"/></a>
         <h3>VPS nên dùng</h3>
         <a href="#"><img src="Images/Vultr-100-USD.png"/></a>
+  </div>
 <!--FOOTER-->
  <div class="end">
  	<table>
